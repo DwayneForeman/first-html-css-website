@@ -1,0 +1,199 @@
+h1 {
+
+  font-size: 48px;
+
+}
+
+
+.left-side {
+  position: absolute;
+    width: 161px;
+    height: 1117px;
+    left: 0px;
+    top: 0px;
+    
+    background: linear-gradient(90deg, #6A11CB 0%, #2575FC 100%);
+
+}
+
+.initials{
+  text-align: center;
+  font-size: 48px;
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Roboto', sans-serif;
+  padding-bottom: 60px;
+  font-weight: bolder;
+
+}
+
+.home-image {
+
+  width: 40px;
+  height: 40px;
+  display: block;
+  padding-bottom: 60px;
+  padding-left: 60px;
+  
+
+}
+
+.person-image {
+
+  width: 40px;
+  height: 40px;
+  display: block;
+  padding-bottom: 60px;
+  padding-left: 60px;
+
+}
+
+.portfolio-image {
+
+  width: 35px;
+  height: 35px;
+  padding-left: 10px;
+  padding-right: 10px;
+  display: block;
+  padding-bottom: 60px;
+  padding-left: 60px;
+
+}
+
+.code-image {
+
+  width: 40px;
+  height: 40px;
+  display: block;
+  padding-bottom: 60px;
+  padding-left: 60px;
+
+}
+
+.phone-image {
+
+  width: 40px;
+  height: 40px;
+  display: block;
+  padding-bottom: 60px;
+  padding-left: 60px;
+
+
+
+}
+
+body {
+  background: linear-gradient(90deg, #E6E9F0 0%, #EEF1F5 100%);
+}
+
+
+.profile-icon{
+
+    
+    padding-left: 330px;
+    width: 400px;
+    height: 365px;
+    position: absolute;
+    padding-top: 200px;
+   
+
+}
+
+.dwayne{
+  
+  position: absolute;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 70px;
+  padding-left: 980px;
+  padding-top: 200px;
+
+
+  background: linear-gradient(220deg, #6A11CB 0%, #2575FC 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+
+
+}
+
+.jr {
+position: absolute;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 70px;
+  padding-left: 1350px;
+  padding-top: 200px;
+
+  color: rgba(174, 177, 183, 0.551);
+  background-clip: text;
+  text-fill-color: transparent;
+
+}
+
+.hello-there{
+  
+    position: absolute;
+    padding-left: 981px;
+    padding-top: 195px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    
+    
+  
+    color: #595B5E;
+}
+
+.bio{
+
+  padding-left: 981px;
+  padding-top: 330px;
+  position: absolute;
+  width: 641px;
+
+  font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 29px;
+  
+    color: #595B5E;
+
+}
+
+
+.resume-button{
+
+  position: absolute;
+  margin-left: 981px;
+  margin-top: -276px;
+ 
+  color: white;
+  font-size: 15px;
+  background-color: #6A11CB;
+  height: 60px;
+  width: 200px;
+  border-radius: 100px;
+  box-shadow: none;
+  border: none;
+
+  background: linear-gradient(180deg, #6A11CB 0%, #2575FC 100%);
+    border-radius: 150px;
+
+
+
+    font-family: 'Montserrat';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 16px;
+      line-height: 29px;
+      text-align: center;
+    
+      color: #FFFFFF;
+
+}
